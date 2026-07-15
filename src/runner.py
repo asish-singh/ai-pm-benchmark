@@ -216,7 +216,12 @@ def main():
     print("Run date %s, day pointer %d, %d eligible task reps" % (date, state["next_day"], len(eligible)))
 
     stopped = False
+    failed_models = set()
     for item in eligible:
+        if item["model"] in failed_models:
+            # This model already hit an API error today. Skip its remaining
+            # items so its retries do not drain the budget other models need.
+            continue
         meta, prompt = parse_task_file(item["task"])
         key = load_key(item["task"])
         try:
@@ -228,6 +233,7 @@ def main():
                 # pending so it runs again on a later day, and do not score.
                 print("API error for %s %s rep %d, carrying over unscored" % (
                     item["task"], item["model"], item["rep"]))
+                failed_models.add(item["model"])
                 continue
             record = score_answer(client, judge_model, item, meta, prompt, key, answer_text)
         except BudgetExhausted as exc:
