@@ -1,0 +1,18 @@
+{
+  "task": "A2",
+  "task_version": 1,
+  "skill": "A",
+  "model": "meta/llama-3.3-70b-instruct",
+  "rep": 1,
+  "date": "2026-07-15",
+  "parse_error": false,
+  "components": {
+    "parse_error": false,
+    "duration_correct": 0,
+    "slack_fraction": 0.6667,
+    "critical_path_correct": 1,
+    "code_score": 0.5556
+  },
+  "judge": {},
+  "overall": 0.5556
+}

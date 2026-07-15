@@ -1,0 +1,26 @@
+{
+  "task": "A1",
+  "task_version": 1,
+  "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+  "tier": "high",
+  "rep": 1,
+  "date": "2026-07-15",
+  "timestamp": "2026-07-15T10:30:34.625270+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "{\n  \"critical_path\": [\"T1\", \"T3\", \"T4\", \"T6\", \"T7\", \"T8\"],\n  \"project_duration_days\": 23,\n  \"slack_days\": {\"T1\": 0, \"T2\": 2, \"T3\": 0, \"T4\": 0, \"T5\": 1, \"T6\": 0, \"T7\": 0, \"T8\": 0}\n}",
+      "usage": {
+        "prompt_tokens": 350,
+        "completion_tokens": 103,
+        "total_tokens": 453,
+        "audio_prompt_tokens": 0
+      },
+      "latency_seconds": 1.23,
+      "status": "ok"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "next_day": 0,
+  "next_day": 1,
   "queue": [
     {
       "task": "A1",
@@ -7,7 +7,7 @@
       "tier": "high",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A1",
@@ -15,7 +15,7 @@
       "tier": "low",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A1",
@@ -23,7 +23,7 @@
       "tier": "high",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A1",
@@ -31,7 +31,7 @@
       "tier": "high",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A1",
@@ -39,7 +39,7 @@
       "tier": "low",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A1",
@@ -47,7 +47,7 @@
       "tier": "low",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A1",
@@ -55,7 +55,7 @@
       "tier": "high",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A1",
@@ -63,7 +63,7 @@
       "tier": "high",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A2",
@@ -71,7 +71,7 @@
       "tier": "high",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A2",
@@ -79,7 +79,7 @@
       "tier": "low",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A2",
@@ -87,7 +87,7 @@
       "tier": "high",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A2",
@@ -95,7 +95,7 @@
       "tier": "high",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A2",
@@ -103,7 +103,7 @@
       "tier": "low",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A2",
@@ -111,7 +111,7 @@
       "tier": "low",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A2",
@@ -119,7 +119,7 @@
       "tier": "high",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "A2",
@@ -127,7 +127,7 @@
       "tier": "high",
       "rep": 1,
       "day": 0,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "B1",

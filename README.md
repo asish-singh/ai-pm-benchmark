@@ -20,7 +20,18 @@ Eight models from GitHub Models across five providers, all in the free tier. Exa
 ## Leaderboard
 
 <!-- LEADERBOARD:START -->
-No results yet. The leaderboard appears here after the first daily run.
+Scores are on a 0 to 1 scale. A model is marked preliminary until it has at least 30 scored task reps.
+
+| Model | Overall | Scheduling | Estimation | Prioritization | Risk | Communication | Task reps | Status |
+|---|---|---|---|---|---|---|---|---|
+| openai/gpt-4.1 | 0.96 | 0.96 | - | - | - | - | 2 | preliminary |
+| cohere/cohere-command-a | 0.80 | 0.80 | - | - | - | - | 2 | preliminary |
+| meta/llama-4-maverick-17b-128e-instruct-fp8 | 0.59 | 0.59 | - | - | - | - | 2 | preliminary |
+| mistral-ai/mistral-small-2503 | 0.59 | 0.59 | - | - | - | - | 2 | preliminary |
+| openai/gpt-4o-mini | 0.44 | 0.44 | - | - | - | - | 2 | preliminary |
+| meta/llama-3.3-70b-instruct | 0.40 | 0.40 | - | - | - | - | 2 | preliminary |
+| microsoft/phi-4 | 0.40 | 0.40 | - | - | - | - | 2 | preliminary |
+| deepseek/deepseek-v3-0324 | 0.00 | 0.00 | - | - | - | - | 2 | preliminary |
 <!-- LEADERBOARD:END -->
 
 ## How it works
