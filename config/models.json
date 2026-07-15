@@ -1,0 +1,22 @@
+{
+  "models": [
+    {"slot": "M1", "id": "openai/gpt-4.1", "provider": "OpenAI", "tier": "high"},
+    {"slot": "M2", "id": "openai/gpt-4o-mini", "provider": "OpenAI", "tier": "low"},
+    {"slot": "M3", "id": "meta/llama-4-maverick-17b-128e-instruct-fp8", "provider": "Meta", "tier": "high"},
+    {"slot": "M4", "id": "meta/llama-3.3-70b-instruct", "provider": "Meta", "tier": "high"},
+    {"slot": "M5", "id": "mistral-ai/mistral-small-2503", "provider": "Mistral", "tier": "low"},
+    {"slot": "M6", "id": "microsoft/phi-4", "provider": "Microsoft", "tier": "low"},
+    {"slot": "M7", "id": "deepseek/deepseek-v3-0324", "provider": "DeepSeek", "tier": "high"},
+    {"slot": "M8", "id": "cohere/cohere-command-a", "provider": "Cohere", "tier": "high"}
+  ],
+  "judge": {"id": "openai/gpt-4.1", "provider": "OpenAI", "tier": "high"},
+  "budgets": {
+    "high_daily_requests": 40,
+    "low_daily_requests": 60,
+    "min_seconds_between_requests": 8
+  },
+  "generation": {
+    "temperature": 0,
+    "max_tokens": 3500
+  }
+}

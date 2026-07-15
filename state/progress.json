@@ -1,0 +1,1925 @@
+{
+  "next_day": 0,
+  "queue": [
+    {
+      "task": "A1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 1,
+      "day": 0,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 1,
+      "day": 1,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 1,
+      "day": 2,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 1,
+      "day": 3,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 1,
+      "day": 4,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 2,
+      "day": 5,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 2,
+      "day": 6,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 2,
+      "day": 7,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 2,
+      "day": 8,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 2,
+      "day": 9,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "A2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 3,
+      "day": 10,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "B2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 3,
+      "day": 11,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "C2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 3,
+      "day": 12,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "D2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 3,
+      "day": 13,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E1",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "openai/gpt-4.1",
+      "tier": "high",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "openai/gpt-4o-mini",
+      "tier": "low",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+      "tier": "high",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "meta/llama-3.3-70b-instruct",
+      "tier": "high",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "mistral-ai/mistral-small-2503",
+      "tier": "low",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "microsoft/phi-4",
+      "tier": "low",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "deepseek/deepseek-v3-0324",
+      "tier": "high",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    },
+    {
+      "task": "E2",
+      "model": "cohere/cohere-command-a",
+      "tier": "high",
+      "rep": 3,
+      "day": 14,
+      "status": "pending"
+    }
+  ]
+}

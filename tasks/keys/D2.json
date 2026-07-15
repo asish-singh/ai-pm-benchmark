@@ -1,0 +1,12 @@
+{
+  "planted_risks": [
+    {"id": "R1", "risk": "Legal review turnaround of 15 working days versus the 5 days assumed in the schedule"},
+    {"id": "R2", "risk": "Celebrity spokesperson reputation risk given a history of public controversies"},
+    {"id": "R3", "risk": "Weather risk, coastal filming in February during storm season"},
+    {"id": "R4", "risk": "Media buy committed and paid before the creative concept was validated, and focus group feedback was mixed"},
+    {"id": "R5", "risk": "Sponsor risk, the CMO championing the campaign leaves at the end of January"},
+    {"id": "R6", "risk": "Governance risk, three agencies collaborating with no agreed decision making process"},
+    {"id": "R7", "risk": "Offshore fixed bid microsite build while requirements are still changing weekly"},
+    {"id": "R8", "risk": "Fixed multi channel go live date of 3 March with dependencies across TV, out of home, and digital"}
+  ]
+}

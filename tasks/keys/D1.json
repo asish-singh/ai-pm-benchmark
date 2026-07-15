@@ -1,0 +1,12 @@
+{
+  "planted_risks": [
+    {"id": "R1", "risk": "Hard immovable deadline, old vendor support ends 1 November with no fallback"},
+    {"id": "R2", "risk": "Team lacks cloud migration experience"},
+    {"id": "R3", "risk": "Key person risk, the only engineer who knows the legacy schema retires in September"},
+    {"id": "R4", "risk": "Data migration from an undocumented custom SQL database"},
+    {"id": "R5", "risk": "Vendor risk, an 18 month old startup with no service level agreement in the contract"},
+    {"id": "R6", "risk": "User adoption risk, long tenured staff moving from green screens to tablets with no approved training budget"},
+    {"id": "R7", "risk": "Budget risk, vendor quote is 20 percent above the budget set before vendor selection"},
+    {"id": "R8", "risk": "Timing risk, peak shipping season begins two weeks after go live, leaving no stabilization window"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "facts": [
+    "login rework done, took 9 days instead of 5",
+    "payments blocked on FinServe sandbox credentials for 11 days, chased twice",
+    "34 regression bugs, 6 critical, mostly Android 13",
+    "Priya on planned leave 2 weeks, tickets to Daniel",
+    "app store review 3 to 7 days, submit by the 18th",
+    "marketing wants beta build by Friday for demo video",
+    "61 percent of budget spent, 70 percent of scope done",
+    "client decision, ship without loyalty points screen or slip 2 weeks"
+  ],
+  "allowed_numbers": ["9", "5", "11", "34", "6", "13", "2", "3", "7", "18", "61", "70"]
+}

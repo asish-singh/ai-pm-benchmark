@@ -1,0 +1,14 @@
+{
+  "checklist": [
+    {"item": "review submission UI or form", "keywords": ["form", "submission", "submit", "ui"]},
+    {"item": "star rating", "keywords": ["star", "rating"]},
+    {"item": "photo upload handling", "keywords": ["photo", "image", "upload"]},
+    {"item": "moderation workflow or queue", "keywords": ["moderat"]},
+    {"item": "average rating display on product page", "keywords": ["average"]},
+    {"item": "backend api or data model", "keywords": ["api", "database", "data model", "schema", "backend"]},
+    {"item": "testing or QA", "keywords": ["test", "qa"]},
+    {"item": "deployment or release", "keywords": ["deploy", "release", "launch", "rollout"]},
+    {"item": "abuse, spam, or content safety", "keywords": ["spam", "abuse", "profanity", "inappropriate", "content safety"]},
+    {"item": "performance or load on product pages", "keywords": ["performance", "load", "caching", "cache", "scal"]}
+  ]
+}

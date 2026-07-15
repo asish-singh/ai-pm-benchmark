@@ -1,0 +1,14 @@
+{
+  "checklist": [
+    {"item": "site preparation or excavation", "keywords": ["site prep", "excavat", "grading", "site work"]},
+    {"item": "foundations", "keywords": ["foundation", "footing", "slab"]},
+    {"item": "structural frame or walls", "keywords": ["fram", "structural", "masonry", "steel", "walls"]},
+    {"item": "roofing", "keywords": ["roof"]},
+    {"item": "electrical", "keywords": ["electric"]},
+    {"item": "plumbing", "keywords": ["plumb"]},
+    {"item": "hvac or mechanical", "keywords": ["hvac", "mechanical", "ventilat", "heating"]},
+    {"item": "interior finishes", "keywords": ["finish", "paint", "flooring", "drywall"]},
+    {"item": "inspections or permits", "keywords": ["inspect", "permit", "code compliance"]},
+    {"item": "landscaping or external works", "keywords": ["landscap", "paving", "parking", "external", "sitework"]}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "facts": [
+    "level 4 concrete pour done Monday, 3 days late from rain",
+    "steel price increase of 8 percent next month, order covers levels 5 and 6 only",
+    "crane inspection failed, repair quote 14500, down 4 days, liability disputed",
+    "2 of 12 level 2 apartments have wrong way window frames, rework next week",
+    "program 9 days behind baseline, recovery targets 5 days back by month end",
+    "contingency spend 40 percent at 55 percent complete",
+    "council inspector on the 22nd, drainage documentation missing",
+    "tiling subcontractor in administration, replacement quotes due Friday"
+  ],
+  "allowed_numbers": ["4", "3", "8", "5", "6", "14500", "2", "12", "9", "40", "55", "22"]
+}
