@@ -1,0 +1,46 @@
+{
+  "task": "B2",
+  "task_version": 1,
+  "model": "openai/gpt-4.1",
+  "tier": "high",
+  "rep": 1,
+  "date": "2026-07-15",
+  "timestamp": "2026-07-15T10:53:21.452378+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "### Work Breakdown Structure\n- Site Preparation\n  - Mobilization and site setup (2 crew days)\n  - Temporary fencing and signage (1 crew day)\n  - Minor grading and leveling (2 crew days)\n- Foundations\n  - Excavation for foundations (2 crew days)\n  - Formwork and reinforcement (3 crew days)\n  - Concrete pour and curing (3 crew days)\n- Structural Shell\n  - External and internal wall construction (6 crew days)\n  - Roof framing and installation (4 crew days)\n  - Roof waterproofing and insulation (2 crew days)\n- Exterior Finishes\n  - Window and door installation (2 crew days)\n  - Exterior cladding and painting (3 crew days)\n- Interior Construction\n  - Partition walls and drywall (3 crew days)\n  - Flooring installation (3 crew days)\n  - Ceiling installation (2 crew days)\n- Building Systems\n  - Electrical rough-in and finish (4 crew days)\n  - Plumbing rough-in and finish (4 crew days)\n  - HVAC installation (3 crew days)\n- Interior Finishes\n  - Painting and wall finishes (3 crew days)\n  - Millwork and shelving installation (3 crew days)\n  - Fixtures and hardware installation (2 crew days)\n- Site Works and Landscaping\n  - Sidewalks and paving (2 crew days)\n  - Landscaping and planting (2 crew days)\n  - Site cleanup and demobilization (1 crew day)\n\n### Total Estimate\n60 crew days\n\n### Assumptions\n- Crew day = 1 standard crew (4-6 workers) working a full day.\n- All materials are readily available and delivered on schedule.\n- No major weather delays or site access issues.\n- Subcontractors are scheduled efficiently and overlap where possible.\n- Design drawings are fully approved and require no changes.\n- The site is already cleared and utilities are available at the boundary.\n- Library is a single storey, standard construction, no unusual features.",
+      "usage": {
+        "completion_tokens": 402,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": 0,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": 0
+        },
+        "latency_checkpoint": {
+          "engine_tbt_ms": 10,
+          "engine_ttft_ms": 38,
+          "engine_ttlt_ms": 4150,
+          "pre_inference_ms": 108,
+          "service_tbt_ms": 10,
+          "service_ttft_ms": 1015,
+          "service_ttlt_ms": 5123,
+          "total_duration_ms": 5023,
+          "user_visible_ttft_ms": 907
+        },
+        "prompt_tokens": 222,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        },
+        "total_tokens": 624
+      },
+      "latency_seconds": 5.97,
+      "status": "ok"
+    }
+  ]
+}

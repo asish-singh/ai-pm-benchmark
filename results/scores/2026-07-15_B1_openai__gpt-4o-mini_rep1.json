@@ -1,0 +1,65 @@
+{
+  "task": "B1",
+  "task_version": 1,
+  "skill": "B",
+  "model": "openai/gpt-4o-mini",
+  "rep": 1,
+  "date": "2026-07-15",
+  "parse_error": false,
+  "components": {
+    "parse_error": false,
+    "checklist_hits": [
+      {
+        "item": "review submission UI or form",
+        "covered": true
+      },
+      {
+        "item": "star rating",
+        "covered": true
+      },
+      {
+        "item": "photo upload handling",
+        "covered": true
+      },
+      {
+        "item": "moderation workflow or queue",
+        "covered": true
+      },
+      {
+        "item": "average rating display on product page",
+        "covered": true
+      },
+      {
+        "item": "backend api or data model",
+        "covered": true
+      },
+      {
+        "item": "testing or QA",
+        "covered": true
+      },
+      {
+        "item": "deployment or release",
+        "covered": true
+      },
+      {
+        "item": "abuse, spam, or content safety",
+        "covered": false
+      },
+      {
+        "item": "performance or load on product pages",
+        "covered": true
+      }
+    ],
+    "checklist_fraction": 0.9,
+    "code_score": 0.9
+  },
+  "judge": {
+    "dimension_scores": {
+      "mece_structure": 4,
+      "estimate_quality": 4,
+      "assumptions": 3
+    },
+    "judge_score": 0.6667
+  },
+  "overall": 0.7833
+}

@@ -5,7 +5,7 @@
   "tier": "high",
   "rep": 1,
   "date": "2026-07-15",
-  "timestamp": "2026-07-15T10:34:50.234869+00:00",
+  "timestamp": "2026-07-15T10:41:20.770545+00:00",
   "parameters": {
     "temperature": 0,
     "max_tokens": 3500
@@ -16,7 +16,7 @@
       "usage": {},
       "latency_seconds": null,
       "status": "error",
-      "error": "gave up after 3 tries: HTTP 500: Model service is unavailable."
+      "error": "gave up after 3 tries: HTTP 429: Too many requests. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).\n"
     }
   ]
 }
