@@ -55,7 +55,7 @@
       "tier": "high",
       "rep": 1,
       "day": 0,
-      "status": "done"
+      "status": "pending"
     },
     {
       "task": "A1",
@@ -119,7 +119,7 @@
       "tier": "high",
       "rep": 1,
       "day": 0,
-      "status": "done"
+      "status": "pending"
     },
     {
       "task": "A2",

@@ -31,7 +31,6 @@ Scores are on a 0 to 1 scale. A model is marked preliminary until it has at leas
 | openai/gpt-4o-mini | 0.44 | 0.44 | - | - | - | - | 2 | preliminary |
 | meta/llama-3.3-70b-instruct | 0.40 | 0.40 | - | - | - | - | 2 | preliminary |
 | microsoft/phi-4 | 0.40 | 0.40 | - | - | - | - | 2 | preliminary |
-| deepseek/deepseek-v3-0324 | 0.00 | 0.00 | - | - | - | - | 2 | preliminary |
 <!-- LEADERBOARD:END -->
 
 ## How it works

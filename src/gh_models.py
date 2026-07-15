@@ -120,7 +120,9 @@ class GitHubModelsClient:
                 if retry_after and retry_after.isdigit():
                     time.sleep(int(retry_after))
                 else:
-                    time.sleep(2 ** attempt * 10)
+                    # Some models enforce their own per minute caps beyond
+                    # the documented tier limits, so wait generously.
+                    time.sleep(2 ** attempt * 30)
                 continue
             # Client errors other than 429 will not improve with retries.
             return {

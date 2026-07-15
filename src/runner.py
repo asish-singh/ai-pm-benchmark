@@ -222,6 +222,13 @@ def main():
         try:
             answer_text, calls = call_model_with_retry(client, item, prompt, meta["output_format"])
             save_raw(item, meta, calls, config, date)
+            if all(c["status"] != "ok" for c in calls):
+                # The API never returned an answer (rate limit or outage).
+                # That is missing data, not a model failure: leave the item
+                # pending so it runs again on a later day, and do not score.
+                print("API error for %s %s rep %d, carrying over unscored" % (
+                    item["task"], item["model"], item["rep"]))
+                continue
             record = score_answer(client, judge_model, item, meta, prompt, key, answer_text)
         except BudgetExhausted as exc:
             print("Stopping, %s. Unfinished work carries over." % exc)
