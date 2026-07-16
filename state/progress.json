@@ -1,5 +1,5 @@
 {
-  "next_day": 1,
+  "next_day": 2,
   "queue": [
     {
       "task": "A1",
@@ -223,7 +223,7 @@
       "tier": "high",
       "rep": 1,
       "day": 1,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "B2",
@@ -231,7 +231,7 @@
       "tier": "low",
       "rep": 1,
       "day": 1,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "B2",
@@ -239,7 +239,7 @@
       "tier": "low",
       "rep": 1,
       "day": 1,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "B2",
@@ -255,7 +255,7 @@
       "tier": "high",
       "rep": 1,
       "day": 1,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "C1",

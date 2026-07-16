@@ -1,0 +1,65 @@
+{
+  "task": "B2",
+  "task_version": 1,
+  "skill": "B",
+  "model": "cohere/cohere-command-a",
+  "rep": 1,
+  "date": "2026-07-16",
+  "parse_error": false,
+  "components": {
+    "parse_error": false,
+    "checklist_hits": [
+      {
+        "item": "site preparation or excavation",
+        "covered": true
+      },
+      {
+        "item": "foundations",
+        "covered": true
+      },
+      {
+        "item": "structural frame or walls",
+        "covered": true
+      },
+      {
+        "item": "roofing",
+        "covered": true
+      },
+      {
+        "item": "electrical",
+        "covered": true
+      },
+      {
+        "item": "plumbing",
+        "covered": true
+      },
+      {
+        "item": "hvac or mechanical",
+        "covered": true
+      },
+      {
+        "item": "interior finishes",
+        "covered": true
+      },
+      {
+        "item": "inspections or permits",
+        "covered": true
+      },
+      {
+        "item": "landscaping or external works",
+        "covered": false
+      }
+    ],
+    "checklist_fraction": 0.9,
+    "code_score": 0.9
+  },
+  "judge": {
+    "dimension_scores": {
+      "mece_structure": 4,
+      "estimate_quality": 4,
+      "assumptions": 5
+    },
+    "judge_score": 0.8333
+  },
+  "overall": 0.8667
+}
