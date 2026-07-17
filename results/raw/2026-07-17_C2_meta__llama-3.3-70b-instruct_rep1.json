@@ -1,0 +1,37 @@
+{
+  "task": "C2",
+  "task_version": 1,
+  "model": "meta/llama-3.3-70b-instruct",
+  "tier": "high",
+  "rep": 1,
+  "date": "2026-07-17",
+  "timestamp": "2026-07-17T05:35:02.143718+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "{\n  \"scores\": {\n    \"B1\": (12000 * 1 * 0.8) / 6,\n    \"B2\": (3000 * 2 * 1.0) / 2,\n    \"B3\": (6000 * 2 * 0.5) / 4,\n    \"B4\": (900 * 3 * 0.8) / 1,\n    \"B5\": (15000 * 0.5 * 1.0) / 3,\n    \"B6\": (2500 * 2 * 0.7) / 5\n  },\n  \"scores\": {\"B1\": 1600, \"B2\": 3000, \"B3\": 1500, \"B4\": 2160, \"B5\": 2500, \"B6\": 700},\n  \"ranking\": [\"B2\", \"B4\", \"B5\", \"B1\", \"B3\", \"B6\"],\n  \"top_justification\": \"The top ranked item is B2 because it has the highest RICE score of 3000, indicating the greatest expected value given its reach, impact, confidence, and effort required.\"\n}",
+      "usage": {
+        "prompt_tokens": 422,
+        "completion_tokens": 261,
+        "total_tokens": 683,
+        "audio_prompt_tokens": 0
+      },
+      "latency_seconds": 2.07,
+      "status": "ok"
+    },
+    {
+      "content": "{\n  \"scores\": {\"B1\": 1600, \"B2\": 3000, \"B3\": 1500, \"B4\": 2160, \"B5\": 2500, \"B6\": 700},\n  \"ranking\": [\"B2\", \"B4\", \"B5\", \"B1\", \"B3\", \"B6\"],\n  \"top_justification\": \"The top ranked item is B2 because it has the highest RICE score of 3000, indicating the greatest expected value given its reach, impact, confidence, and effort required.\"\n}",
+      "usage": {
+        "prompt_tokens": 716,
+        "completion_tokens": 127,
+        "total_tokens": 843,
+        "audio_prompt_tokens": 0
+      },
+      "latency_seconds": 1.03,
+      "status": "ok"
+    }
+  ]
+}

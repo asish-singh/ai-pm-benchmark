@@ -1,0 +1,46 @@
+{
+  "task": "C2",
+  "task_version": 1,
+  "model": "openai/gpt-4o-mini",
+  "tier": "low",
+  "rep": 1,
+  "date": "2026-07-17",
+  "timestamp": "2026-07-17T05:34:23.978484+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "{\n  \"scores\": {\"B1\": 160.0, \"B2\": 30.0, \"B3\": 30.0, \"B4\": 216.0, \"B5\": 250.0, \"B6\": 70.0},\n  \"ranking\": [\"B5\", \"B4\", \"B1\", \"B2\", \"B3\", \"B6\"],\n  \"top_justification\": \"Faster page loads has the highest RICE score, indicating it will benefit the most users with significant impact and confidence relative to the effort required.\"\n}",
+      "usage": {
+        "completion_tokens": 126,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": 0,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": 0
+        },
+        "latency_checkpoint": {
+          "engine_tbt_ms": 12,
+          "engine_ttft_ms": 43,
+          "engine_ttlt_ms": 1578,
+          "pre_inference_ms": 105,
+          "service_tbt_ms": 12,
+          "service_ttft_ms": 786,
+          "service_ttlt_ms": 2332,
+          "total_duration_ms": 2235,
+          "user_visible_ttft_ms": 681
+        },
+        "prompt_tokens": 398,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        },
+        "total_tokens": 524
+      },
+      "latency_seconds": 2.87,
+      "status": "ok"
+    }
+  ]
+}

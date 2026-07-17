@@ -1,0 +1,22 @@
+{
+  "task": "C2",
+  "task_version": 1,
+  "skill": "C",
+  "model": "microsoft/phi-4",
+  "rep": 1,
+  "date": "2026-07-17",
+  "parse_error": false,
+  "components": {
+    "parse_error": false,
+    "score_fraction": 0.8333,
+    "ranking_fraction": 0.9333,
+    "code_score": 0.8833
+  },
+  "judge": {
+    "dimension_scores": {
+      "justification_quality": 5
+    },
+    "judge_score": 1.0
+  },
+  "overall": 0.9416
+}

@@ -1,0 +1,46 @@
+{
+  "task": "C1",
+  "task_version": 1,
+  "model": "openai/gpt-4o-mini",
+  "tier": "low",
+  "rep": 1,
+  "date": "2026-07-17",
+  "timestamp": "2026-07-17T05:29:18.381906+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "{\n  \"scores\": {\"F1\": 640.0, \"F2\": 1500.0, \"F3\": 2000.0, \"F4\": 400.0, \"F5\": 1800.0},\n  \"ranking\": [\"F3\", \"F5\", \"F2\", \"F1\", \"F4\"],\n  \"top_justification\": \"The SEO landing page refresh has the highest RICE score, indicating it will provide the most value relative to the effort required.\"\n}",
+      "usage": {
+        "completion_tokens": 112,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": 0,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": 0
+        },
+        "latency_checkpoint": {
+          "engine_tbt_ms": 13,
+          "engine_ttft_ms": 33,
+          "engine_ttlt_ms": 1506,
+          "pre_inference_ms": 134,
+          "service_tbt_ms": 13,
+          "service_ttft_ms": 541,
+          "service_ttlt_ms": 1941,
+          "total_duration_ms": 1813,
+          "user_visible_ttft_ms": 407
+        },
+        "prompt_tokens": 364,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        },
+        "total_tokens": 476
+      },
+      "latency_seconds": 2.39,
+      "status": "ok"
+    }
+  ]
+}

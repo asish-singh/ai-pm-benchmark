@@ -1,0 +1,36 @@
+{
+  "task": "C2",
+  "task_version": 1,
+  "model": "cohere/cohere-command-a",
+  "tier": "high",
+  "rep": 1,
+  "date": "2026-07-17",
+  "timestamp": "2026-07-17T05:38:57.637792+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "{\n  \"scores\": {\n    \"B1\": 1600,\n    \"B2\": 3000,\n    \"B3\": 1500,\n    \"B4\": 2160,\n    \"B5\": 2500,\n    \"B6\": 700\n  },\n  \"ranking\": [\"B2\", \"B5\", \"B4\", \"B1\", \"B3\", \"B6\"],\n  \"top_justification\": \"B2 ranks highest due to its high impact, confidence, and low effort relative to reach.\"\n}",
+      "usage": {
+        "prompt_tokens": 411,
+        "completion_tokens": 129,
+        "total_tokens": 540,
+        "audio_prompt_tokens": 0,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_seconds": 3.4,
+      "status": "ok"
+    }
+  ]
+}
