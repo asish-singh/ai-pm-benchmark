@@ -1,0 +1,26 @@
+{
+  "task": "E1",
+  "task_version": 1,
+  "skill": "E",
+  "model": "meta/llama-3.3-70b-instruct",
+  "rep": 1,
+  "date": "2026-07-19",
+  "parse_error": false,
+  "components": {
+    "parse_error": false,
+    "fabricated_numbers": [],
+    "fabrication_free": 1.0,
+    "code_score": 1.0
+  },
+  "judge": {
+    "dimension_scores": {
+      "accuracy": 4,
+      "completeness": 4,
+      "audience_fit": 4,
+      "clarity": 5,
+      "no_fabrication": 5
+    },
+    "judge_score": 0.85
+  },
+  "overall": 0.925
+}
