@@ -1,0 +1,18 @@
+{
+  "task": "A2",
+  "task_version": 1,
+  "skill": "A",
+  "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+  "rep": 2,
+  "date": "2026-07-20",
+  "parse_error": false,
+  "components": {
+    "parse_error": false,
+    "duration_correct": 0,
+    "slack_fraction": 0.5556,
+    "critical_path_correct": 0,
+    "code_score": 0.1852
+  },
+  "judge": {},
+  "overall": 0.1852
+}

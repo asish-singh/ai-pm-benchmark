@@ -1,0 +1,46 @@
+{
+  "task": "A1",
+  "task_version": 1,
+  "model": "openai/gpt-4o-mini",
+  "tier": "low",
+  "rep": 2,
+  "date": "2026-07-20",
+  "timestamp": "2026-07-20T05:56:16.156258+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "{\n  \"critical_path\": [\"T1\", \"T2\", \"T4\", \"T5\", \"T7\", \"T8\"],\n  \"project_duration_days\": 21,\n  \"slack_days\": {\"T1\": 0, \"T2\": 0, \"T3\": 2, \"T4\": 0, \"T5\": 0, \"T6\": 2, \"T7\": 0, \"T8\": 0}\n}",
+      "usage": {
+        "completion_tokens": 103,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": 0,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": 0
+        },
+        "latency_checkpoint": {
+          "engine_tbt_ms": 10,
+          "engine_ttft_ms": 84,
+          "engine_ttlt_ms": 1128,
+          "pre_inference_ms": 136,
+          "service_tbt_ms": 11,
+          "service_ttft_ms": 949,
+          "service_ttlt_ms": 2046,
+          "total_duration_ms": 1937,
+          "user_visible_ttft_ms": 812
+        },
+        "prompt_tokens": 347,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        },
+        "total_tokens": 450
+      },
+      "latency_seconds": 2.67,
+      "status": "ok"
+    }
+  ]
+}

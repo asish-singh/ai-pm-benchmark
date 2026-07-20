@@ -1,0 +1,36 @@
+{
+  "task": "A1",
+  "task_version": 1,
+  "model": "cohere/cohere-command-a",
+  "tier": "high",
+  "rep": 2,
+  "date": "2026-07-20",
+  "timestamp": "2026-07-20T05:56:56.747379+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "{\n  \"critical_path\": [\"T1\", \"T3\", \"T4\", \"T6\", \"T7\", \"T8\"],\n  \"project_duration_days\": 23,\n  \"slack_days\": {\n    \"T1\": 0,\n    \"T2\": 2,\n    \"T3\": 0,\n    \"T4\": 0,\n    \"T5\": 1,\n    \"T6\": 0,\n    \"T7\": 0,\n    \"T8\": 0\n  }\n}",
+      "usage": {
+        "prompt_tokens": 358,
+        "completion_tokens": 117,
+        "total_tokens": 475,
+        "audio_prompt_tokens": 0,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_seconds": 3.26,
+      "status": "ok"
+    }
+  ]
+}

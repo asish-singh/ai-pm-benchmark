@@ -1,0 +1,22 @@
+{
+  "task": "A1",
+  "task_version": 1,
+  "model": "deepseek/deepseek-v3-0324",
+  "tier": "high",
+  "rep": 1,
+  "date": "2026-07-20",
+  "timestamp": "2026-07-20T05:56:05.484343+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": null,
+      "usage": {},
+      "latency_seconds": null,
+      "status": "error",
+      "error": "gave up after 3 tries: HTTP 500: Model service is unavailable."
+    }
+  ]
+}

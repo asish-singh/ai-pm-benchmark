@@ -1,0 +1,18 @@
+{
+  "task": "A1",
+  "task_version": 1,
+  "skill": "A",
+  "model": "microsoft/phi-4",
+  "rep": 2,
+  "date": "2026-07-20",
+  "parse_error": false,
+  "components": {
+    "parse_error": false,
+    "duration_correct": 0,
+    "slack_fraction": 0.75,
+    "critical_path_correct": 0,
+    "code_score": 0.25
+  },
+  "judge": {},
+  "overall": 0.25
+}
