@@ -1,0 +1,65 @@
+{
+  "task": "B2",
+  "task_version": 1,
+  "skill": "B",
+  "model": "openai/gpt-4o-mini",
+  "rep": 2,
+  "date": "2026-07-21",
+  "parse_error": false,
+  "components": {
+    "parse_error": false,
+    "checklist_hits": [
+      {
+        "item": "site preparation or excavation",
+        "covered": true
+      },
+      {
+        "item": "foundations",
+        "covered": true
+      },
+      {
+        "item": "structural frame or walls",
+        "covered": true
+      },
+      {
+        "item": "roofing",
+        "covered": true
+      },
+      {
+        "item": "electrical",
+        "covered": true
+      },
+      {
+        "item": "plumbing",
+        "covered": true
+      },
+      {
+        "item": "hvac or mechanical",
+        "covered": false
+      },
+      {
+        "item": "interior finishes",
+        "covered": true
+      },
+      {
+        "item": "inspections or permits",
+        "covered": true
+      },
+      {
+        "item": "landscaping or external works",
+        "covered": true
+      }
+    ],
+    "checklist_fraction": 0.9,
+    "code_score": 0.9
+  },
+  "judge": {
+    "dimension_scores": {
+      "mece_structure": 4,
+      "estimate_quality": 5,
+      "assumptions": 3
+    },
+    "judge_score": 0.75
+  },
+  "overall": 0.825
+}

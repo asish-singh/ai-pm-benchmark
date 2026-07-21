@@ -1,0 +1,65 @@
+{
+  "task": "B1",
+  "task_version": 1,
+  "skill": "B",
+  "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+  "rep": 2,
+  "date": "2026-07-21",
+  "parse_error": false,
+  "components": {
+    "parse_error": false,
+    "checklist_hits": [
+      {
+        "item": "review submission UI or form",
+        "covered": true
+      },
+      {
+        "item": "star rating",
+        "covered": true
+      },
+      {
+        "item": "photo upload handling",
+        "covered": false
+      },
+      {
+        "item": "moderation workflow or queue",
+        "covered": true
+      },
+      {
+        "item": "average rating display on product page",
+        "covered": true
+      },
+      {
+        "item": "backend api or data model",
+        "covered": true
+      },
+      {
+        "item": "testing or QA",
+        "covered": true
+      },
+      {
+        "item": "deployment or release",
+        "covered": false
+      },
+      {
+        "item": "abuse, spam, or content safety",
+        "covered": false
+      },
+      {
+        "item": "performance or load on product pages",
+        "covered": false
+      }
+    ],
+    "checklist_fraction": 0.6,
+    "code_score": 0.6
+  },
+  "judge": {
+    "dimension_scores": {
+      "mece_structure": 4,
+      "estimate_quality": 4,
+      "assumptions": 3
+    },
+    "judge_score": 0.6667
+  },
+  "overall": 0.6333
+}

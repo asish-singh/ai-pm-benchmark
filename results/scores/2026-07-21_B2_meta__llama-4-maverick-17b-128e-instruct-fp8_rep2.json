@@ -1,0 +1,65 @@
+{
+  "task": "B2",
+  "task_version": 1,
+  "skill": "B",
+  "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+  "rep": 2,
+  "date": "2026-07-21",
+  "parse_error": false,
+  "components": {
+    "parse_error": false,
+    "checklist_hits": [
+      {
+        "item": "site preparation or excavation",
+        "covered": true
+      },
+      {
+        "item": "foundations",
+        "covered": true
+      },
+      {
+        "item": "structural frame or walls",
+        "covered": true
+      },
+      {
+        "item": "roofing",
+        "covered": true
+      },
+      {
+        "item": "electrical",
+        "covered": true
+      },
+      {
+        "item": "plumbing",
+        "covered": true
+      },
+      {
+        "item": "hvac or mechanical",
+        "covered": true
+      },
+      {
+        "item": "interior finishes",
+        "covered": true
+      },
+      {
+        "item": "inspections or permits",
+        "covered": true
+      },
+      {
+        "item": "landscaping or external works",
+        "covered": true
+      }
+    ],
+    "checklist_fraction": 1.0,
+    "code_score": 1.0
+  },
+  "judge": {
+    "dimension_scores": {
+      "mece_structure": 4,
+      "estimate_quality": 4,
+      "assumptions": 3
+    },
+    "judge_score": 0.6667
+  },
+  "overall": 0.8334
+}
