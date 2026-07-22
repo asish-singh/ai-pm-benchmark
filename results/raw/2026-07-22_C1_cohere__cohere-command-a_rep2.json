@@ -1,0 +1,36 @@
+{
+  "task": "C1",
+  "task_version": 1,
+  "model": "cohere/cohere-command-a",
+  "tier": "high",
+  "rep": 2,
+  "date": "2026-07-22",
+  "timestamp": "2026-07-22T05:44:46.140857+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "{\n  \"scores\": {\n    \"F1\": 1600.0,\n    \"F2\": 1500.0,\n    \"F3\": 2000.0,\n    \"F4\": 500.0,\n    \"F5\": 1800.0\n  },\n  \"ranking\": [\"F3\", \"F1\", \"F5\", \"F2\", \"F4\"],\n  \"top_justification\": \"F3 ranks highest due to its large reach and low effort, despite moderate impact and confidence.\"\n}",
+      "usage": {
+        "prompt_tokens": 372,
+        "completion_tokens": 124,
+        "total_tokens": 496,
+        "audio_prompt_tokens": 0,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_seconds": 3.86,
+      "status": "ok"
+    }
+  ]
+}

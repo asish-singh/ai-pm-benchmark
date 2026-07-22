@@ -1,0 +1,46 @@
+{
+  "task": "C1",
+  "task_version": 1,
+  "model": "openai/gpt-4.1",
+  "tier": "high",
+  "rep": 2,
+  "date": "2026-07-22",
+  "timestamp": "2026-07-22T05:36:47.230004+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "{\n  \"scores\": {\n    \"F1\": 1600,\n    \"F2\": 1500,\n    \"F3\": 2000,\n    \"F4\": 400,\n    \"F5\": 1800\n  },\n  \"ranking\": [\"F3\", \"F5\", \"F1\", \"F2\", \"F4\"],\n  \"top_justification\": \"F3 ranks highest because its combination of high reach and low effort yields the greatest overall RICE score despite a lower impact multiplier.\"\n}",
+      "usage": {
+        "completion_tokens": 112,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": 0,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": 0
+        },
+        "latency_checkpoint": {
+          "engine_tbt_ms": 22,
+          "engine_ttft_ms": 313,
+          "engine_ttlt_ms": 2738,
+          "pre_inference_ms": 151,
+          "service_tbt_ms": 22,
+          "service_ttft_ms": 1211,
+          "service_ttlt_ms": 3635,
+          "total_duration_ms": 3494,
+          "user_visible_ttft_ms": 1060
+        },
+        "prompt_tokens": 364,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        },
+        "total_tokens": 476
+      },
+      "latency_seconds": 4.35,
+      "status": "ok"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "task": "C2",
+  "task_version": 1,
+  "model": "microsoft/phi-4",
+  "tier": "low",
+  "rep": 2,
+  "date": "2026-07-22",
+  "timestamp": "2026-07-22T05:49:35.475784+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "```json\n{\n  \"scores\": {\n    \"B1\": 2560.0,\n    \"B2\": 3000.0,\n    \"B3\": 1500.0,\n    \"B4\": 2160.0,\n    \"B5\": 2500.0,\n    \"B6\": 700.0\n  },\n  \"ranking\": [\"B2\", \"B5\", \"B1\", \"B4\", \"B3\", \"B6\"],\n  \"top_justification\": \"B2 has the highest RICE score due to its high impact and confidence with relatively low effort.\"\n}\n```",
+      "usage": {
+        "completion_tokens": 135,
+        "prompt_tokens": 398,
+        "prompt_tokens_details": null,
+        "total_tokens": 533
+      },
+      "latency_seconds": 3.93,
+      "status": "ok"
+    }
+  ]
+}

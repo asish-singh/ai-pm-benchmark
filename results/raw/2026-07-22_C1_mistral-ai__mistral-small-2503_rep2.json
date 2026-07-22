@@ -1,0 +1,25 @@
+{
+  "task": "C1",
+  "task_version": 1,
+  "model": "mistral-ai/mistral-small-2503",
+  "tier": "low",
+  "rep": 2,
+  "date": "2026-07-22",
+  "timestamp": "2026-07-22T05:37:56.585318+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "{\n  \"scores\": {\"F1\": 1600, \"F2\": 1500, \"F3\": 1000, \"F4\": 400, \"F5\": 360},\n  \"ranking\": [\"F1\", \"F2\", \"F3\", \"F5\", \"F4\"],\n  \"top_justification\": \"The email nurture sequence has the highest RICE score because it reaches the most people with a significant impact and high confidence.\"\n}",
+      "usage": {
+        "completion_tokens": 113,
+        "prompt_tokens": 379,
+        "total_tokens": 492
+      },
+      "latency_seconds": 1.71,
+      "status": "ok"
+    }
+  ]
+}

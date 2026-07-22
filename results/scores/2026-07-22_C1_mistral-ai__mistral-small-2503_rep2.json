@@ -1,0 +1,22 @@
+{
+  "task": "C1",
+  "task_version": 1,
+  "skill": "C",
+  "model": "mistral-ai/mistral-small-2503",
+  "rep": 2,
+  "date": "2026-07-22",
+  "parse_error": false,
+  "components": {
+    "parse_error": false,
+    "score_fraction": 0.6,
+    "ranking_fraction": 0.6,
+    "code_score": 0.6
+  },
+  "judge": {
+    "dimension_scores": {
+      "justification_quality": 3
+    },
+    "judge_score": 0.5
+  },
+  "overall": 0.55
+}

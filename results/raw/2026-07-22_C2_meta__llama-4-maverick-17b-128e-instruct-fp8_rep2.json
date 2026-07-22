@@ -1,0 +1,26 @@
+{
+  "task": "C2",
+  "task_version": 1,
+  "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+  "tier": "high",
+  "rep": 2,
+  "date": "2026-07-22",
+  "timestamp": "2026-07-22T05:45:31.838677+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "{\n  \"scores\": {\"B1\": 1600, \"B2\": 3000, \"B3\": 1500, \"B4\": 2160, \"B5\": 2500, \"B6\": 700},\n  \"ranking\": [\"B2\", \"B5\", \"B4\", \"B1\", \"B3\", \"B6\"],\n  \"top_justification\": \"One click checkout has the highest RICE score because it has a high impact and confidence while requiring relatively low effort.\"\n}",
+      "usage": {
+        "prompt_tokens": 395,
+        "completion_tokens": 113,
+        "total_tokens": 508,
+        "audio_prompt_tokens": 0
+      },
+      "latency_seconds": 1.55,
+      "status": "ok"
+    }
+  ]
+}
