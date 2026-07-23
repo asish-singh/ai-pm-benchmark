@@ -1,0 +1,31 @@
+{
+  "task": "D2",
+  "task_version": 1,
+  "skill": "D",
+  "model": "meta/llama-4-maverick-17b-128e-instruct-fp8",
+  "rep": 2,
+  "date": "2026-07-23",
+  "parse_error": false,
+  "components": {
+    "parse_error": false,
+    "recall": 0.875
+  },
+  "judge": {
+    "dimension_scores": {
+      "mitigation_quality": 4,
+      "clarity": 4
+    },
+    "judge_score": 0.75,
+    "matched_planted_risks": [
+      "R1",
+      "R2",
+      "R3",
+      "R4",
+      "R5",
+      "R6",
+      "R7"
+    ],
+    "recall": 0.875
+  },
+  "overall": 0.8125
+}

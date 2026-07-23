@@ -1,5 +1,5 @@
 {
-  "next_day": 8,
+  "next_day": 9,
   "queue": [
     {
       "task": "A1",
@@ -1031,7 +1031,7 @@
       "tier": "high",
       "rep": 2,
       "day": 8,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "D1",
@@ -1039,7 +1039,7 @@
       "tier": "low",
       "rep": 2,
       "day": 8,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "D1",
@@ -1047,7 +1047,7 @@
       "tier": "high",
       "rep": 2,
       "day": 8,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "D1",
@@ -1055,7 +1055,7 @@
       "tier": "high",
       "rep": 2,
       "day": 8,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "D1",
@@ -1063,7 +1063,7 @@
       "tier": "low",
       "rep": 2,
       "day": 8,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "D1",
@@ -1087,7 +1087,7 @@
       "tier": "high",
       "rep": 2,
       "day": 8,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "D2",
@@ -1095,7 +1095,7 @@
       "tier": "high",
       "rep": 2,
       "day": 8,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "D2",
@@ -1103,7 +1103,7 @@
       "tier": "low",
       "rep": 2,
       "day": 8,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "D2",
@@ -1111,7 +1111,7 @@
       "tier": "high",
       "rep": 2,
       "day": 8,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "D2",
@@ -1119,7 +1119,7 @@
       "tier": "high",
       "rep": 2,
       "day": 8,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "D2",
@@ -1127,7 +1127,7 @@
       "tier": "low",
       "rep": 2,
       "day": 8,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "D2",
@@ -1151,7 +1151,7 @@
       "tier": "high",
       "rep": 2,
       "day": 8,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "E1",
