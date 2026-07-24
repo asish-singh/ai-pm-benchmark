@@ -1,0 +1,32 @@
+{
+  "task": "D1",
+  "task_version": 1,
+  "skill": "D",
+  "model": "microsoft/phi-4",
+  "rep": 2,
+  "date": "2026-07-24",
+  "parse_error": false,
+  "components": {
+    "parse_error": false,
+    "recall": 1.0
+  },
+  "judge": {
+    "dimension_scores": {
+      "mitigation_quality": 4,
+      "clarity": 5
+    },
+    "judge_score": 0.875,
+    "matched_planted_risks": [
+      "R1",
+      "R2",
+      "R3",
+      "R4",
+      "R5",
+      "R6",
+      "R7",
+      "R8"
+    ],
+    "recall": 1.0
+  },
+  "overall": 0.9375
+}

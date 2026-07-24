@@ -1,0 +1,46 @@
+{
+  "task": "E1",
+  "task_version": 1,
+  "model": "openai/gpt-4.1",
+  "tier": "high",
+  "rep": 2,
+  "date": "2026-07-24",
+  "timestamp": "2026-07-24T05:41:57.328541+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "### Summary\nThe project is progressing, with 70% of the scope completed and 61% of the budget used. However, there are ongoing delays with payments integration and several critical bugs identified, which may impact the launch timeline.\n\n### Progress\n- Backend team completed the login rework (took 9 days, planned for 5).\n- 70% of project scope is done.\n- Burn rate is at 61% of the budget.\n- Priya\u2019s tickets reassigned to Daniel due to her planned 2-week leave.\n\n### Risks and Blockers\n- Payments integration blocked for 11 days, waiting on sandbox credentials from FinServe (chased twice).\n- QA found 34 bugs in regression testing, 6 of which are critical (mostly on Android 13).\n- App store review takes 3\u20137 days; submission by the 18th is required to meet launch.\n- Marketing needs a beta build by Friday for the demo video.\n\n### Decisions Needed\n- Confirm whether to ship without the loyalty points screen or delay launch by 2 weeks.",
+      "usage": {
+        "completion_tokens": 219,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": 0,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": 0
+        },
+        "latency_checkpoint": {
+          "engine_tbt_ms": 15,
+          "engine_ttft_ms": 76,
+          "engine_ttlt_ms": 3416,
+          "pre_inference_ms": 93,
+          "service_tbt_ms": 15,
+          "service_ttft_ms": 876,
+          "service_ttlt_ms": 4212,
+          "total_duration_ms": 4126,
+          "user_visible_ttft_ms": 783
+        },
+        "prompt_tokens": 316,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        },
+        "total_tokens": 535
+      },
+      "latency_seconds": 4.88,
+      "status": "ok"
+    }
+  ]
+}
