@@ -24,13 +24,13 @@ Scores are on a 0 to 1 scale. A model is marked preliminary until it has at leas
 
 | Model | Overall | Scheduling | Estimation | Prioritization | Risk | Communication | Task reps | Status |
 |---|---|---|---|---|---|---|---|---|
-| openai/gpt-4.1 | 0.96 | 0.94 | 0.94 | 0.97 | 0.97 | 1.00 | 22 | preliminary |
-| cohere/cohere-command-a | 0.91 | 0.80 | 0.93 | 0.90 | 0.94 | 0.97 | 22 | preliminary |
-| meta/llama-4-maverick-17b-128e-instruct-fp8 | 0.84 | 0.59 | 0.75 | 1.00 | 0.88 | 0.97 | 22 | preliminary |
-| microsoft/phi-4 | 0.82 | 0.40 | 0.86 | 0.94 | 0.92 | 0.99 | 22 | preliminary |
-| mistral-ai/mistral-small-2503 | 0.77 | 0.59 | 0.80 | 0.61 | 0.86 | 1.00 | 22 | preliminary |
-| meta/llama-3.3-70b-instruct | 0.77 | 0.40 | 0.80 | 0.74 | 0.94 | 0.96 | 22 | preliminary |
-| openai/gpt-4o-mini | 0.76 | 0.52 | 0.84 | 0.55 | 0.89 | 0.98 | 22 | preliminary |
+| openai/gpt-4.1 | 0.97 | 0.94 | 0.95 | 0.97 | 0.97 | 1.00 | 24 | preliminary |
+| cohere/cohere-command-a | 0.90 | 0.80 | 0.92 | 0.90 | 0.94 | 0.97 | 24 | preliminary |
+| meta/llama-4-maverick-17b-128e-instruct-fp8 | 0.85 | 0.59 | 0.79 | 1.00 | 0.88 | 0.97 | 24 | preliminary |
+| microsoft/phi-4 | 0.82 | 0.40 | 0.85 | 0.94 | 0.92 | 0.99 | 24 | preliminary |
+| mistral-ai/mistral-small-2503 | 0.77 | 0.59 | 0.80 | 0.61 | 0.86 | 1.00 | 24 | preliminary |
+| meta/llama-3.3-70b-instruct | 0.77 | 0.40 | 0.80 | 0.74 | 0.94 | 0.96 | 24 | preliminary |
+| openai/gpt-4o-mini | 0.75 | 0.52 | 0.83 | 0.55 | 0.89 | 0.98 | 24 | preliminary |
 <!-- LEADERBOARD:END -->
 
 ## How it works
