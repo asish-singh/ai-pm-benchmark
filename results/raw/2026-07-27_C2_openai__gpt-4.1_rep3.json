@@ -1,0 +1,46 @@
+{
+  "task": "C2",
+  "task_version": 1,
+  "model": "openai/gpt-4.1",
+  "tier": "high",
+  "rep": 3,
+  "date": "2026-07-27",
+  "timestamp": "2026-07-27T06:12:39.854201+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "{\n  \"scores\": {\n    \"B1\": 1600,\n    \"B2\": 3000,\n    \"B3\": 1500,\n    \"B4\": 2160,\n    \"B5\": 2500,\n    \"B6\": 700\n  },\n  \"ranking\": [\"B2\", \"B5\", \"B4\", \"B1\", \"B3\", \"B6\"],\n  \"top_justification\": \"B2 is ranked highest because it delivers high impact and confidence to a substantial user base with minimal effort required.\"\n}",
+      "usage": {
+        "completion_tokens": 121,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": 0,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": 0
+        },
+        "latency_checkpoint": {
+          "engine_tbt_ms": 11,
+          "engine_ttft_ms": 56,
+          "engine_ttlt_ms": 1439,
+          "pre_inference_ms": 153,
+          "service_tbt_ms": 11,
+          "service_ttft_ms": 982,
+          "service_ttlt_ms": 2315,
+          "total_duration_ms": 2173,
+          "user_visible_ttft_ms": 829
+        },
+        "prompt_tokens": 398,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        },
+        "total_tokens": 519
+      },
+      "latency_seconds": 2.81,
+      "status": "ok"
+    }
+  ]
+}

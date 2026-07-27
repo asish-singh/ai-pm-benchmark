@@ -1,0 +1,22 @@
+{
+  "task": "C2",
+  "task_version": 1,
+  "model": "microsoft/phi-4",
+  "tier": "low",
+  "rep": 3,
+  "date": "2026-07-27",
+  "timestamp": "2026-07-27T06:23:40.371937+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": null,
+      "usage": {},
+      "latency_seconds": null,
+      "status": "error",
+      "error": "gave up after 3 tries: HTTPSConnectionPool(host='models.github.ai', port=443): Read timed out. (read timeout=180)"
+    }
+  ]
+}
