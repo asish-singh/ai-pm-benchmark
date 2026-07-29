@@ -1,0 +1,46 @@
+{
+  "task": "E2",
+  "task_version": 1,
+  "model": "openai/gpt-4.1",
+  "tier": "high",
+  "rep": 3,
+  "date": "2026-07-29",
+  "timestamp": "2026-07-29T05:38:00.723374+00:00",
+  "parameters": {
+    "temperature": 0,
+    "max_tokens": 3500
+  },
+  "calls": [
+    {
+      "content": "### Summary\nThe Hillcrest apartment block project is currently 9 days behind the baseline schedule, with a recovery plan aiming to regain 5 days by month end. Contingency spend is at 40 percent with the project 55 percent complete, and several risks have emerged related to crane downtime, supply costs, and subcontractor insolvency.\n\n### Progress\n- Concrete pour for level 4 completed on Monday (3 days late due to rain).\n- Window frames installed on level 2 (noting 2 of 12 require rework).\n- Steel order placed, covering levels 5 and 6.\n- Replacement tiling subcontractor quotes expected Friday.\n\n### Risks and Blockers\n- Crane out of service for 4 days following failed inspection; $14,500 repair quote; liability disputed with hire company.\n- Steel supplier has notified of an 8% price increase effective next month; current order does not cover all future levels.\n- Two apartments on level 2 require window frame rework next week.\n- Subcontractor for tiling has gone into administration; replacement not yet appointed.\n- Council inspector visit scheduled for the 22nd; drainage documentation is still outstanding.\n- Project is 9 days behind schedule; contingency spend is at 40% with 45% of the project remaining.\n\n### Decisions Needed\n- Direction on whether to proceed with crane repairs and approach to resolving liability dispute with hire company.\n- Approval to secure additional steel at current pricing before the 8% increase.\n- Guidance on contingency allocation given current spend rate and outstanding risks.",
+      "usage": {
+        "completion_tokens": 317,
+        "completion_tokens_details": {
+          "accepted_prediction_tokens": 0,
+          "audio_tokens": 0,
+          "reasoning_tokens": 0,
+          "rejected_prediction_tokens": 0
+        },
+        "latency_checkpoint": {
+          "engine_tbt_ms": 16,
+          "engine_ttft_ms": 314,
+          "engine_ttlt_ms": 5354,
+          "pre_inference_ms": 110,
+          "service_tbt_ms": 16,
+          "service_ttft_ms": 1154,
+          "service_ttlt_ms": 6218,
+          "total_duration_ms": 6141,
+          "user_visible_ttft_ms": 1045
+        },
+        "prompt_tokens": 322,
+        "prompt_tokens_details": {
+          "audio_tokens": 0,
+          "cached_tokens": 0
+        },
+        "total_tokens": 639
+      },
+      "latency_seconds": 6.91,
+      "status": "ok"
+    }
+  ]
+}

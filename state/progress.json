@@ -1799,7 +1799,7 @@
       "tier": "high",
       "rep": 3,
       "day": 14,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "E1",
@@ -1807,7 +1807,7 @@
       "tier": "low",
       "rep": 3,
       "day": 14,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "E1",
@@ -1815,7 +1815,7 @@
       "tier": "high",
       "rep": 3,
       "day": 14,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "E1",
@@ -1823,7 +1823,7 @@
       "tier": "high",
       "rep": 3,
       "day": 14,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "E1",
@@ -1831,7 +1831,7 @@
       "tier": "low",
       "rep": 3,
       "day": 14,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "E1",
@@ -1839,7 +1839,7 @@
       "tier": "low",
       "rep": 3,
       "day": 14,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "E1",
@@ -1855,7 +1855,7 @@
       "tier": "high",
       "rep": 3,
       "day": 14,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "E2",
@@ -1863,7 +1863,7 @@
       "tier": "high",
       "rep": 3,
       "day": 14,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "E2",
@@ -1871,7 +1871,7 @@
       "tier": "low",
       "rep": 3,
       "day": 14,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "E2",
@@ -1879,7 +1879,7 @@
       "tier": "high",
       "rep": 3,
       "day": 14,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "E2",
@@ -1887,7 +1887,7 @@
       "tier": "high",
       "rep": 3,
       "day": 14,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "E2",
@@ -1895,7 +1895,7 @@
       "tier": "low",
       "rep": 3,
       "day": 14,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "E2",
@@ -1903,7 +1903,7 @@
       "tier": "low",
       "rep": 3,
       "day": 14,
-      "status": "pending"
+      "status": "done"
     },
     {
       "task": "E2",
@@ -1919,7 +1919,7 @@
       "tier": "high",
       "rep": 3,
       "day": 14,
-      "status": "pending"
+      "status": "done"
     }
   ]
 }

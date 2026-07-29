@@ -1,0 +1,28 @@
+{
+  "task": "E2",
+  "task_version": 1,
+  "skill": "E",
+  "model": "openai/gpt-4.1",
+  "rep": 3,
+  "date": "2026-07-29",
+  "parse_error": false,
+  "components": {
+    "parse_error": false,
+    "fabricated_numbers": [
+      "45"
+    ],
+    "fabrication_free": 0.95,
+    "code_score": 0.95
+  },
+  "judge": {
+    "dimension_scores": {
+      "accuracy": 5,
+      "completeness": 5,
+      "audience_fit": 5,
+      "clarity": 5,
+      "no_fabrication": 5
+    },
+    "judge_score": 1.0
+  },
+  "overall": 0.975
+}
